@@ -1,0 +1,6 @@
+cnn/*
+data/*
+writingPrompts/*
+*.tar
+*.tgz
+gdown.cookie.temp
